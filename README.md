@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Mahmoud
 
-🚀 Mobile Developer | 💻 Flutter • ASP.NET • Backend Enthusiast  
+🚀 Mobile Developer | 💻 Flutter • ASP.NET Enthusiast  
 🎓 Software Engineering Student  
 
 </div>
@@ -13,9 +13,9 @@
 
 I'm a passionate **Mobile Developer** focused on building real-world applications with clean design and solid architecture.
 
-I've worked with **Flutter & ASP.NET**, and I’m continuously improving my skills in backend development and system design.
+I enjoy turning ideas into working apps and continuously improving my development skills through real projects.
 
-Still learning, still grinding — and always excited to build real-world projects.
+Still learning, still grinding — and always building.
 
 ---
 
@@ -23,7 +23,8 @@ Still learning, still grinding — and always excited to build real-world projec
 
 - 📱 Mobile App Development using Flutter  
 - 🖥️ Backend Development using ASP.NET  
-- 🌐 API Integration & Database Design  
+- 🌐 REST API Integration & Data Handling  
+- 🗄️ Working with multiple database systems  
 - 🧠 Problem Solving & Clean Architecture  
 - 🚀 Building scalable and maintainable applications  
 
@@ -31,7 +32,7 @@ Still learning, still grinding — and always excited to build real-world projec
 
 ## 🛠 Skills & Technologies
 
-### 💻 Programming & Development
+### 💻 Programming Languages
 
 <table>
   <tr>
@@ -64,17 +65,19 @@ Still learning, still grinding — and always excited to build real-world projec
   </tr>
 
   <tr>
-    <td><b>APIs & Databases</b></td>
+    <td><b>APIs & Data</b></td>
     <td>
       <img src="https://img.shields.io/badge/REST_API-009688?style=flat"/>
       <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/>
     </td>
   </tr>
 
   <tr>
     <td><b>Other Skills</b></td>
     <td>
-      Clean Code • Git/GitHub • Problem Solving
+      Clean Code • Git/GitHub • Problem Solving • UI Architecture
     </td>
   </tr>
 
@@ -82,30 +85,31 @@ Still learning, still grinding — and always excited to build real-world projec
 
 ---
 
-## 📚 Currently Learning
+## 📱 Featured Projects
 
-- 🔵 Advanced Flutter Development  
-- 🟣 Advanced ASP.NET Backend Development  
+### 🛒 Shoppy
+Flutter e-commerce app using Supabase for authentication and real-time data, with Provider state management and clean modular architecture.
 
----
+### 📰 News App
+Real-time news application using REST API, Cubit (BLoC) state management, theme switching, and WebView integration.
 
-## 🚀 Featured Projects
+### 📝 Notes App
+Offline notes app with local storage and Cubit state management for persistent and reactive UI updates.
 
-### 🛒 Shoppy  
-Flutter e-commerce app with Supabase backend, Provider state management, and clean architecture.
-
-### 📰 News App  
-Real-time news app using REST API, Cubit (BLoC), theme switching, and WebView integration.
-
-### 📝 Notes App  
-Offline notes app with persistent storage and Cubit state management.
-
-### ✅ To-Do App  
-Task manager app using SQLite with smooth UI and task organization features.
+### ✅ To-Do App
+Task manager app using SQLite with smooth UI, task organization, and local persistence.
 
 ---
 
-## 📫 Let's Connect!
+## 📚 Currently Improving
+
+- 🔵 Advanced Flutter Architecture  
+- 🟣 Backend integration with ASP.NET  
+- 🟢 Scalable mobile app design patterns  
+
+---
+
+## 📫 Let's Connect
 
 - 📧 Email: Mahmoudahmed142008@gmail.com  
 - 🌐 GitHub: MahmoudWasfy  

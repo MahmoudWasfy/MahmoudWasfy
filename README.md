@@ -22,7 +22,7 @@ Still learning, still grinding — and always excited to build real-world projec
 ## ✨ What I Do
 
 - 📱 Mobile App Development using Flutter  
-- 🖥️ Backend Development using ASP.NET, NestJS & Django  
+- 🖥️ Backend Development using ASP.NET  
 - 🌐 API Integration & Database Design  
 - 🧠 Problem Solving & Clean Architecture  
 - 🚀 Building scalable and maintainable applications  
@@ -50,14 +50,6 @@ Still learning, still grinding — and always excited to build real-world projec
   </tr>
 
   <tr>
-    <td><b>Frontend Development</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-    </td>
-  </tr>
-
-  <tr>
     <td><b>Mobile Development</b></td>
     <td>
       <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
@@ -68,8 +60,6 @@ Still learning, still grinding — and always excited to build real-world projec
     <td><b>Backend Development</b></td>
     <td>
       <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=.net&logoColor=white"/>
-      <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
     </td>
   </tr>
 
@@ -94,10 +84,8 @@ Still learning, still grinding — and always excited to build real-world projec
 
 ## 📚 Currently Learning
 
-- 🔴 NestJS (Backend Development)  
-- 🟢 Django (Advanced Backend Concepts)  
-- ⚫ Next.js (Frontend Development)  
-- 🔵 Flutter (Advanced Mobile Development)  
+- 🔵 Advanced Flutter Development  
+- 🟣 Advanced ASP.NET Backend Development  
 
 ---
 
@@ -114,13 +102,6 @@ Offline notes app with persistent storage and Cubit state management.
 
 ### ✅ To-Do App  
 Task manager app using SQLite with smooth UI and task organization features.
-
----
-
-## 🧠 Competitive Programming
-
-- 💪 I enjoy solving problems and improving my algorithmic thinking  
-- 🔗 You can add your VJudge or Codeforces profile here  
 
 ---
 

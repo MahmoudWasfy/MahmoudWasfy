@@ -33,21 +33,28 @@ Still learning, still building — and always pushing forward.
 - REST APIs  
 - MSSQL & Database Design  
 
-### ⚙️ Other Skills
-- C++ / C# / Python  
-- Git & GitHub  
-- Problem Solving  
-- Clean Code Principles  
+---
+
+## 🖥️ Programming & Development
+
+| Category | Technologies |
+|----------|-------------|
+| Languages | C++ C# Python Dart |
+| Frontend Development | Next.js React |
+| Mobile Development | Flutter |
+| Backend Development | ASP.NET NestJS Django |
+| APIs & Databases | REST API MSSQL |
+| Other Skills | Clean Code, Git/GitHub, Problem Solving |
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🛒 Shoppy (Flutter E-commerce App)
-Flutter app with Supabase backend, Provider state management, and modular architecture.
+### 🛒 Shoppy
+Flutter e-commerce app using Supabase, Provider, and modular architecture.
 
 ### 📰 News App
-Real-time news app using REST API, Cubit (BLoC), theme switching, and WebView integration.
+Real-time news app using REST API, Cubit (BLoC), theme switching, and WebView.
 
 ### 📝 Notes App
 Offline notes app with persistent storage and Cubit state management.
@@ -57,29 +64,21 @@ Task manager app using SQLite with smooth UI and task organization features.
 
 ---
 
-## 🧩 Competitive Programming
-I enjoy solving problems and improving my algorithmic thinking.
-
-🔗 VJudge Profile:  
-👉 https://vjudge.net/user/yourusername  
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=MahmoudWasfy&show_icons=true&theme=tokyonight" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudWasfy&layout=compact&theme=tokyonight" />
 
 </p>
 
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: Mahmoudahmed142008@gmail.com 
-- 🌐 GitHub: MahmoudWasfy
+- 📧 Email: Mahmoudahmed142008@gmail.com  
+- 🌐 GitHub: MahmoudWasfy  
 
 ---
 

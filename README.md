@@ -10,10 +10,22 @@
 ---
 
 ## 💡 About Me
-I'm a passionate mobile developer focused on building real-world applications with clean design and solid architecture.  
-I enjoy turning ideas into working apps and continuously improving my development skills.
 
-Still learning, still building — and always pushing forward.
+I'm a passionate **Mobile Developer** focused on building real-world applications with clean design and solid architecture.
+
+I've worked with **Flutter & ASP.NET**, and I’m continuously improving my skills in backend development and system design.
+
+Still learning, still grinding — and always excited to build real-world projects.
+
+---
+
+## ✨ What I Do
+
+- 📱 Mobile App Development using Flutter  
+- 🖥️ Backend Development using ASP.NET, NestJS & Django  
+- 🌐 API Integration & Database Design  
+- 🧠 Problem Solving & Clean Architecture  
+- 🚀 Building scalable and maintainable applications  
 
 ---
 
@@ -80,65 +92,40 @@ Still learning, still building — and always pushing forward.
 
 ---
 
-## 🚀 Tech Stack Details
+## 📚 Currently Learning
 
-### 📱 Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-- Provider / Cubit (BLoC) State Management  
-- REST APIs  
-- Supabase (Auth + Real-time Database)  
-- SQLite (Local Storage)  
-- WebView Integration  
-- Clean Modular Architecture  
-
----
-
-### 🖥️ Backend Development
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
-- REST APIs  
-- MSSQL & Database Design  
-
----
-
-## 🧑‍💻 Programming Languages
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+- 🔴 NestJS (Backend Development)  
+- 🟢 Django (Advanced Backend Concepts)  
+- ⚫ Next.js (Frontend Development)  
+- 🔵 Flutter (Advanced Mobile Development)  
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🛒 Shoppy
+### 🛒 Shoppy  
 Flutter e-commerce app with Supabase backend, Provider state management, and clean architecture.
 
-### 📰 News App
+### 📰 News App  
 Real-time news app using REST API, Cubit (BLoC), theme switching, and WebView integration.
 
-### 📝 Notes App
+### 📝 Notes App  
 Offline notes app with persistent storage and Cubit state management.
 
-### ✅ To-Do App
+### ✅ To-Do App  
 Task manager app using SQLite with smooth UI and task organization features.
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 Competitive Programming
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MahmoudWasfy&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudWasfy&layout=compact&theme=tokyonight" />
-</p>
+- 💪 I enjoy solving problems and improving my algorithmic thinking  
+- 🔗 You can add your VJudge or Codeforces profile here  
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let's Connect!
+
 - 📧 Email: Mahmoudahmed142008@gmail.com  
 - 🌐 GitHub: MahmoudWasfy  
 

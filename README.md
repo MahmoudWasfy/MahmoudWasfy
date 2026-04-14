@@ -20,7 +20,9 @@ Still learning, still building — and always pushing forward.
 ## 🧠 Tech Stack
 
 ### 📱 Mobile Development
-- Flutter & Dart  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
 - Provider / Cubit (BLoC) State Management  
 - REST APIs  
 - Supabase (Auth + Real-time Database)  
@@ -28,33 +30,33 @@ Still learning, still building — and always pushing forward.
 - WebView Integration  
 - Clean Modular Architecture  
 
-### 🖥️ Backend Basics
-- ASP.NET Core  
+---
+
+### 🖥️ Backend Development
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
 - REST APIs  
 - MSSQL & Database Design  
 
 ---
 
-## 🖥️ Programming & Development
+## 🧑‍💻 Programming Languages
 
-| Category | Technologies |
-|----------|-------------|
-| Languages | C++ C# Python Dart |
-| Frontend Development | Next.js React |
-| Mobile Development | Flutter |
-| Backend Development | ASP.NET NestJS Django |
-| APIs & Databases | REST API MSSQL |
-| Other Skills | Clean Code, Git/GitHub, Problem Solving |
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🛒 Shoppy
-Flutter e-commerce app using Supabase, Provider, and modular architecture.
+Flutter e-commerce app with Supabase backend, Provider state management, and clean architecture.
 
 ### 📰 News App
-Real-time news app using REST API, Cubit (BLoC), theme switching, and WebView.
+Real-time news app using REST API, Cubit (BLoC), theme switching, and WebView integration.
 
 ### 📝 Notes App
 Offline notes app with persistent storage and Cubit state management.
